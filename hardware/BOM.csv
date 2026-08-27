@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1,C2","2","100nf","","","","Capacitor_SMD:C_0805_2012Metric","~"
+"D1","1","LED","","","","LED_SMD:LED_0805_2012Metric","~"
+"J1","1","USB_A","","","","Connector_USB:USB_A_Molex_48037-2200_Horizontal","~"
+"R1","1","330R","","","","Resistor_SMD:R_0805_2012Metric","~"
+"SW1,SW2,SW3","3","SW_Push","","","","Button_Switch_SMD:SW_SPST_PTS645Sx43SMTR92","~"
+"U1","1","CH552G","","","","Package_SO:SOIC-16_3.9x9.9mm_P1.27mm","https://github.com/WeActStudio/WeActStudio.CH552CoreBoard/blob/master/Datasheet/CH552DS1_en.PDF"
