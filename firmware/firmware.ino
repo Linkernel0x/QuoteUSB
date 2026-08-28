@@ -1,7 +1,3 @@
-#ifndef USER_USB_RAM
-#error "This example needs to be compiled with a USER USB setting (USER CODE w/ 148B USB ram)"
-#endif
-
 #include "src/userUsbHidKeyboardMouse/USBHIDKeyboardMouse.h"
 
 const int BTN_QUOTE1 = 31;
@@ -10,7 +6,7 @@ const int BTN_MACRO  = 33;
 const int LED_PIN    = 34;
 
 const char* Quotes1[] = {
-  "all we have to decide is what to do with the time that is given us"
+  "All we have to decide is what to do with the time that is given us"
 };
 
 const char* Quotes2[] = {
